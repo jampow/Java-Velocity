@@ -10,8 +10,8 @@
 	<string>(?x)
 		(
 		\#(?:
-			    (?:macro|if|foreach)\b \s* \(
-			|\{ (?:macro|if|foreach)\b \s* \(
+			    (?:macro|if|foreach|define)\b \s* \(
+			|\{ (?:macro|if|foreach|define)\b \s* \(
 		).*(?!\#\{?end).*$
 		)
 		| # Copied from HTML
