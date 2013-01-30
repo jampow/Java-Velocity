@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>#define($${1:variable})
+	<string>#define(\$${1:variable})
 	#${2:thing_to_store}
 #end</string>
 	<key>name</key>
