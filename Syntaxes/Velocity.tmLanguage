@@ -29,6 +29,14 @@
 			<string>comment.line.double-pound.vm</string>
 		</dict>
 		<dict>
+			<key>comment</key>
+			<string>Hashbang comment</string>
+			<key>match</key>
+			<string>(#!).*$</string>
+			<key>name</key>
+			<string>comment.line.double-pound.vm</string>
+		</dict>
+		<dict>
 			<key>captures</key>
 			<dict>
 				<key>0</key>
