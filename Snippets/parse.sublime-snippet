@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+#parse("${0:path_to_include}")
+]]></content>
+	<tabTrigger>par</tabTrigger>
+	<scope>source.velocity, text.html.velocity</scope>
+</snippet>
