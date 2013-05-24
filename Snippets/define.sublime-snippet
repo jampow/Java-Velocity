@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+#define(\$${1:variable})
+	${2:text_block}
+#end
+]]></content>
+	<tabTrigger>def</tabTrigger>
+	<scope>source.velocity, text.html.velocity</scope>
+</snippet>
