@@ -23,3 +23,7 @@ If you notice any issues please be sure to report them!
 If you're interested in taking over maintainance, do let me know.
 
 Thanks!
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jampow/java-velocity/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
